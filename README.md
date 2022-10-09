@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joshua Ireland
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning more about PAR Inventory calculation
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me: www.linkedin.com/in/joshua-r-ireland
